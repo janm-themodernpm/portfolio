@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300"
+   height="300"
+   viewBox="0 0 79.374998 79.375"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75, 2025-12-25)"
+   sodipodi:docname="joinplay_iconmark.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.56"
+     inkscape:cx="155.19663"
+     inkscape:cy="151.54494"
+     inkscape:window-width="1720"
+     inkscape:window-height="1284"
+     inkscape:window-x="-1"
+     inkscape:window-y="255"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3">
+      <circle
+         style="opacity:0.82;fill:#ff6b47;fill-opacity:1;stroke:none;stroke-width:0.403174"
+         id="path1"
+         cx="30.956249"
+         cy="47.095833"
+         r="16.933332" />
+      <circle
+         style="opacity:0.82;fill:#14b8a6;fill-opacity:1;stroke:none;stroke-width:0.403174"
+         id="path1-5"
+         cx="48.683331"
+         cy="32.543751"
+         r="16.933332" />
+      <path
+         id="circle2"
+         style="opacity:0.5;fill:#fff8f3;fill-opacity:1;stroke:none;stroke-width:0.403174"
+         d="M 31.914331 30.189889 A 16.933332 16.933332 0 0 0 31.75 32.54375 A 16.933332 16.933332 0 0 0 47.725252 49.449695 A 16.933332 16.933332 0 0 0 47.889583 47.095833 A 16.933332 16.933332 0 0 0 31.914331 30.189889 z " />
+    </g>
+  </g>
+</svg>
