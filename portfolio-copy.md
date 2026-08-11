@@ -14,7 +14,7 @@ Formatting notes:
 
 ### [nav]
 - Brand name: **Jan Patrick McGhee**
-- Nav links: Work · Experience · AI practice · Contact
+- Nav links: Portfolio · Work Experience · Journal · Contact
 
 ### [hero.meta]
 - Pill: **Senior Product Manager**
@@ -32,10 +32,10 @@ Rendered as three separate lines, stacked, matching the height of the portrait:
 - Line 3: McGhee
 
 ### [hero.lede]
-I'm a product manager specializing in the infrastructure behind risk, fraud, and Trust & Safety operations. Seven years at Amazon shipping signal architecture, automation, and platform work that served **10M customers**, **2M businesses**, and **100M+ annual transactions**. Today I'm in pre-launch with my first founder venture, JoinPlay, and building agentic AI tools for PMs.
+I'm a product manager specializing in the infrastructure behind risk, fraud, and Trust & Safety operations. Seven years at Amazon shipping signal architecture, automation, and platform work that served **10M customers**, **2M businesses**, and **100M+ annual transactions**. Today I'm in pre-launch with my first founder venture, JoinPlay, and building agentic AI tools for PM workflows.
 
 ### [hero.cta]
-- Primary button: **See the work**
+- Primary button: **See the portfolio**
 - Secondary button: **Get in touch →**
 
 ---
@@ -53,32 +53,32 @@ Seven years of outcomes, by the numbers
 
 ### [work.head]
 - Eyebrow: **01 / Selected work**
-- Title: **Three projects where AI does real work. Not demos. Not decoration.**
-- Sub: Every piece of work below has AI doing real work: in the product, in how it was built, or both.
+- Title: **A peek into some of what I'm up to in my spare time. These are products I've designed, built, and launched end to end.**
+- Sub: Every project below has AI doing heavy lifting: either in the product, in how it was built, or both.
 
 ### [work.project.joinplay]
-- Tags: 0→1 founder · Pre-launch · Agentic prototyping
+- Tags: Full stack design · Pre-launch · Agentic prototyping
 - Title: **JoinPlay**
-- Kicker: Every activity shows two scores: one for the sport, one for the people.
+- Kicker: Join local sports activities that actually match what you need.
 - Description: The rec-sports world optimizes logistics and abandons belonging. JoinPlay is a consumer platform pioneering a new category — *social sports integration* — built for what incumbents ignore. Sole PM & builder: dual-fit matching system, JTBD research across 13 competitors, architecture, and MVP. Tightening core loops before public launch.
-- Role label: **Founder · Product Lead**
-- CTA: **Case study →**
+- CTA: **Read the case study →**
+- Rendering note: title + kicker render inline on one line with a `•` separator between them; role label removed.
 
 ### [work.project.speccheck]
 - Tags: Agentic AI · PM tooling · LLM red-team
 - Title: **Spec-Check**
-- Kicker: Stress-test a PRD before a single line of code.
-- Description: An AI review system that runs your product spec past five specialist agents — technical feasibility, metric clarity, stakeholder alignment, edge-case coverage, and data privacy — and returns a readiness score with actionable gaps.
-- Role label: **Solo build**
-- CTA: **Case study →**
+- Kicker: Stress-test a PRD before a review.
+- Description: An AI review system (informed by seven years of Amazon PRD reviews) that runs your product spec past five specialist agents — technical feasibility, metric clarity, stakeholder alignment, edge-case coverage, and data privacy — and returns a readiness score with actionable gaps.
+- CTA: **Read the case study →**
+- Rendering note: title + kicker render inline on one line with a `•` separator between them; role label removed.
 
 ### [work.project.prompts]
-- Tags: Coming soon · Prompt engineering
+- Tags: PM tooling · Prompt engineering
 - Title: **Jan's Prompt Library**
 - Kicker: The prompts I reach for when I'm shipping with agents.
-- Description: An interactive library of my favorite prompts for agentic workflows, PRD drafting, research synthesis, and vibe-coded prototyping. Launching soon — preview what's inside.
-- Role label: **In production**
-- CTA: **Preview →**
+- Description: An interactive library of my favorite prompts for agentic workflows, PRD drafting, research synthesis, and vibe-coded prototyping.
+- CTA: **Borrow a prompt →**
+- Rendering note: title + kicker render inline on one line with a `•` separator between them; role label removed.
 
 ---
 
@@ -136,35 +136,36 @@ Each company gets a left rail with its logo + a vertical bracket that runs down 
 
 ---
 
-### [ai-practice.head]
-- Eyebrow: **03 / How I work with AI**
-- Title: I run a one-person product org on an agentic stack, handling discovery, architecture, build, and launch without a pod.
-- Sub: Generative and agentic AI are load-bearing in my workflow, not decorative.
+### [journal.head]
+- Eyebrow: **03 / My professional journal**
+- Title: Brief thoughts on career relevant information I stumble upon out in the world.
+- Sub: You won't find any AI-generated writing here. This is all me and my small(er) brain.
 
-### [ai-practice.card.A]
-- Heading: **Agent-assisted discovery**
-- Body: I run structured JTBD interviews, then use LLMs as synthesis partners to cluster quotes, find the disagreements no one named out loud, and draft problem framings I can pressure-test against the transcript.
-- Tools: Claude · GPT-4 · Dovetail
+### [journal.card.A]
+- Heading: **You can create a $-value metric to represent any of the more abstract learnings from your customer research.**
+- Body: placeholder
+- Tools: Trust · Metrics
 
-### [ai-practice.card.B]
-- Heading: **PRD red-teaming**
-- Body: Every spec I write goes through Spec-Check — my own agentic review system — before stakeholders see it. Five specialist agents catch gaps I'd otherwise ship.
-- Tools: Spec-Check · Claude Sonnet
+### [journal.card.B]
+- Heading: **The best part of being a PM (and where we contribute the most value) has been undisturbed by AI.**
+- Body: placeholder
+- Tools: placeholder · placeholder
 
-### [ai-practice.card.C]
+### [journal.card.C]
 - Heading: **Vibe-coded prototyping**
-- Body: I prototype entire flows end-to-end — not Figma, but working HTML, real state, real APIs — so I can user-test and iterate in hours instead of sprints.
-- Tools: Cursor · v0 · Claude Code
+- Body: placeholder
+- Tools: placeholder · placeholder · placeholder
 
-### [ai-practice.card.D]
+### [journal.card.D]
 - Heading: **Signal & metric design**
-- Body: For risk & T&S work I still reason about signals by hand, but use agents to generate test cases, stress distributions, and edge-case catalogs that would take days to assemble manually.
-- Tools: Claude · Python
+- Body: placeholder
+- Tools: placeholder · placeholder
 
 ---
 
 ### [skills.head]
-- Eyebrow: **04 / Core expertise**
+- Placement: nested inside section 02 / Professional journey (no standalone eyebrow).
+- Intro line: A quick view of the skills, systems, and scope I bring with me.
 
 ### [skills.product]
 - Column heading: **Product**
@@ -203,9 +204,9 @@ Each company gets a left rail with its logo + a vertical bracket that runs down 
 ---
 
 ### [contact]
-- Eyebrow: **05 / Get in touch**
-- Headline: Looking for a *senior PM* who can ship with agents *and* operate at scale?
-- Sub: Open to senior IC or founding PM roles in platform, T&S, risk, or applied AI. Los Angeles or remote. Let's talk.
+- Eyebrow: **04 / Get in touch**
+- Headline: Looking for a *product manager* who can lead your team and operate at scale?
+- Sub: Open to senior IC or founding PM roles in platform, T&S, risk, or applied AI. Los Angeles, CA or remote. Let's talk.
 - Cards:
   - Email — jan.mcghee09@gmail.com
   - LinkedIn — linkedin.com/in/janmcghee
@@ -213,7 +214,7 @@ Each company gets a left rail with its logo + a vertical bracket that runs down 
 
 ### [footer]
 - Left: © 2026 Jan Patrick McGhee
-- Right: Built with HTML, Claude, and stubbornness.
+- Right: Built with HTML, Claude Code, and stubbornness.
 
 ---
 
